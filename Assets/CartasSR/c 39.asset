@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ea4d9f15a34c0438cba16cb4818c28, type: 3}
+  m_Name: c 39
+  m_EditorClassIdentifier: 
+  imagemcarta: {fileID: 21300000, guid: 22b012dc2f32d08408f032049feabe5b, type: 3}
+  nomedacarta: Mouth
+  audiodacarta: {fileID: 8300000, guid: d9187e1658203054fb332176e4088538, type: 3}
+  AudioclipWord: {fileID: 8300000, guid: 1a222480abc1bee418dc587c25dba9e1, type: 3}

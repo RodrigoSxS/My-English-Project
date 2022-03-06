@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 101
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: b1b6453aab23c864e925096c5143fb8f, type: 3}
+  ingles: My husband and I want to buy a house.
+  portugues: Meu marido e eu queremos comprar uma casa.
+  espanhol: 

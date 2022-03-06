@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 268
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 4e653d3ed03bb4a4b863d4936e957ac1, type: 3}
+  ingles: "The president\u2019s decision is being seen as an attempt to play for
+    time."
+  portugues: "A decis\xE3o do presidente est\xE1 sendo percebida como uma tentativa
+    de ganhar tempo."
+  espanhol: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ea4d9f15a34c0438cba16cb4818c28, type: 3}
+  m_Name: c 29
+  m_EditorClassIdentifier: 
+  imagemcarta: {fileID: 21300000, guid: 812e67a30fd6da54bba65828df2f7f88, type: 3}
+  nomedacarta: journalist
+  audiodacarta: {fileID: 8300000, guid: d459eaf84158bd74da329dfd20145ff0, type: 3}
+  AudioclipWord: {fileID: 8300000, guid: aa4a4493e4be5ac4598790069234ef5f, type: 3}

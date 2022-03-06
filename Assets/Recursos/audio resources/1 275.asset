@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 275
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 3e4c7f6a758aebb4fb666f02e4d1da22, type: 3}
+  ingles: Today he is due to become the youngest person to fly solo around the world.
+  portugues: "Hoje ele dever\xE1 se tornar a pessoa mais jovem a voar sozinha ao
+    redor do mundo. "
+  espanhol: 

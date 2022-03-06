@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 89
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 2e76baf62de6e3442bac604fc9c801ca, type: 3}
+  ingles: "My father bought me a camera for my birthday.\t"
+  portugues: "Meu pai me comprou uma c\xE2mera no meu anivers\xE1rio."
+  espanhol: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 272
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 317b8083a645a4348aba043e3e0f0dec, type: 3}
+  ingles: "If she doesn\u2019t stop stealing, there\u2019s only jail at the end of
+    the road."
+  portugues: "Se ela n\xE3o parar de roubar, s\xF3 h\xE1 cadeia no fim."
+  espanhol: 

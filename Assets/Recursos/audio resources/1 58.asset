@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 58
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 46a1e7c9f687fa94d88d843c7c124401, type: 3}
+  ingles: They adopted the orphan.
+  portugues: "Eles adotaram o \xF3rf\xE3o."
+  espanhol: 

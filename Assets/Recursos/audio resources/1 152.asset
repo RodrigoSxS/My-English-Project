@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 152
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 581a0059b46f0e4429b40db4549c211d, type: 3}
+  ingles: "Mary\u2019s dog is a weird animal."
+  portugues: "O cachorro da Mary \xE9 um animal estranho."
+  espanhol: 

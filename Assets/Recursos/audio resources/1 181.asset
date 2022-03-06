@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 181
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: c33b23a18b25b224fa55398e46d7d595, type: 3}
+  ingles: What is the good news?
+  portugues: "Qual \xE9 a boa not\xEDcia?"
+  espanhol: 

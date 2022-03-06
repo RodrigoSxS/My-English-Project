@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1807a443591576b4aa856998f607a554, type: 3}
+  m_Name: 1 276
+  m_EditorClassIdentifier: 
+  audio: {fileID: 8300000, guid: 05dc0ede57b4c0b4fb88323d2a2345b1, type: 3}
+  ingles: A student pilot shall not fly solo unless authorised to do so and supervised
+    by a flight instructor.
+  portugues: "Um aluno piloto n\xE3o voar\xE1 sozinho a menos que seja autorizado
+    a fazer isso e supervisionado por um instrutor de voo."
+  espanhol: 
